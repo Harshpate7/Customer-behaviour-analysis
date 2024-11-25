@@ -1,4 +1,4 @@
-# User Behavior Analysis Project
+# Customer Behavior Analysis Project
 
 This project aims to analyze user behavior and purchasing patterns using SQL for data preparation and Tableau for interactive visualizations. The insights derived from this analysis can help in understanding customer demographics, purchase trends, and product preferences.
 
